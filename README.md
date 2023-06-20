@@ -10,4 +10,7 @@ The dataset contains 82 feature columns and 2930 examples(rows). It describes th
 
 ## Notes
 1. The model performances are evaluated using the MAE(Mean Absolute Error) metric, for fundamental understanding of the working of various models.
-2. 
+
+## Comparison among algorithms
+![Screenshot 2023-06-20 121646](https://github.com/kamlesh-ops/Price_Prediction_notebook/assets/101917668/f827acce-c661-4d1e-8f83-3eeaccb7a2d8)
+
